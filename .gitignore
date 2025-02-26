@@ -1,0 +1,5 @@
+# Ignore all __pycache__ directories inside fastapi_app/app
+fastapi_app/app/**/__pycache__/
+
+# Ignore the virtual environment
+venv/
